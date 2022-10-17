@@ -1,3 +1,5 @@
+#TimeComplexity: O(1)
+#SpaceComplexity: O(1)
 class MyHashMap(object):
     class ListNode:
         def __init__(self,key,val):
