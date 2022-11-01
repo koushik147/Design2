@@ -1,5 +1,5 @@
-# TimeComplexity: O(n)
-# Space Complexity: O(1)
+# TimeComplexity: O(1)
+# Space Complexity: O(n)
 class MinStack(object):
 
     def __init__(self):
